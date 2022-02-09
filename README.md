@@ -1,5 +1,5 @@
 # Unit 10: Forecasting Net Prophet 
-## Home by Michael Cordes - Rutgers FinTech Bootcamp
+## Homework by Michael Cordes - Rutgers FinTech Bootcamp
 
 
 This repository contains the files for the Unit 10: Forecasting Net Prophet 
